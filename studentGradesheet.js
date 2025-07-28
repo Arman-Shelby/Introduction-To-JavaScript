@@ -1,4 +1,4 @@
-mark = 50;
+const mark = 50;
 //Passed Or Failed
 if(mark>=33 && mark<100){
     console.log('Passed');
